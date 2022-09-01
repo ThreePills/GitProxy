@@ -7,8 +7,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 public class BranchResponse {
-        @JsonProperty ("branch")
-        private String branchName;
-        @JsonProperty ("sha")
-        private String sha;
+    @JsonProperty("branch")
+    private String branchName;
+    private String sha;
 }

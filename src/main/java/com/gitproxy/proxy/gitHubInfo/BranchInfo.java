@@ -11,10 +11,10 @@ import lombok.NoArgsConstructor;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-@JsonIgnoreProperties (ignoreUnknown = true)
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class BranchInfo {
-        @JsonProperty ("name")
-        private String branchName;
-        @JsonProperty ("commit")
-        private CommitInfo commitInfo;
+    @JsonProperty("name")
+    private String branchName;
+    @JsonProperty("commit")
+    private CommitInfo commitInfo;
 }

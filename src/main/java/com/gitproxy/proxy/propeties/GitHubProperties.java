@@ -6,11 +6,14 @@ import org.springframework.stereotype.Component;
 
 @Data
 @Component
-@ConfigurationProperties ("git")
+@ConfigurationProperties("git")
 public class GitHubProperties {
 
-        private String userUrl;
-        private String branchesUrl;
+    private String scheme;
+    private String baseUrl;
+    private String userPath;
+    private String reposPath;
+    private String branchesPath;
 
 
 }

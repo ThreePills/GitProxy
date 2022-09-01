@@ -1,0 +1,114 @@
+[
+  {
+    "name": "AdvertisementContactOptions",
+    "commit": {
+      "sha": "6cde820a1204929e75535fe6e549f2c96664259c",
+      "url": "https://api.github.com/repos/ThreePills/TablicaOgloszen/commits/6cde820a1204929e75535fe6e549f2c96664259c"
+    },
+    "protected": false
+  },
+  {
+    "name": "AdvertisementList",
+    "commit": {
+      "sha": "b92dac5556c5e22999b28be8fc51758f5a18ddb1",
+      "url": "https://api.github.com/repos/ThreePills/TablicaOgloszen/commits/b92dac5556c5e22999b28be8fc51758f5a18ddb1"
+    },
+    "protected": false
+  },
+  {
+    "name": "AdvertisementListTests",
+    "commit": {
+      "sha": "b2cdd74c76d1b5c47eb1644abb6c706b280a941a",
+      "url": "https://api.github.com/repos/ThreePills/TablicaOgloszen/commits/b2cdd74c76d1b5c47eb1644abb6c706b280a941a"
+    },
+    "protected": false
+  },
+  {
+    "name": "AdvertisementServices",
+    "commit": {
+      "sha": "41548a9b24ab915edf03a04dbeb2d627892c9242",
+      "url": "https://api.github.com/repos/ThreePills/TablicaOgloszen/commits/41548a9b24ab915edf03a04dbeb2d627892c9242"
+    },
+    "protected": false
+  },
+  {
+    "name": "EditAdvertisement",
+    "commit": {
+      "sha": "e0edd25dd2abca2e97a2bf43af26bf667aa33778",
+      "url": "https://api.github.com/repos/ThreePills/TablicaOgloszen/commits/e0edd25dd2abca2e97a2bf43af26bf667aa33778"
+    },
+    "protected": false
+  },
+  {
+    "name": "LoadingSpinner",
+    "commit": {
+      "sha": "eefde059575ecb62fd55752fe2e213b49eacb0b2",
+      "url": "https://api.github.com/repos/ThreePills/TablicaOgloszen/commits/eefde059575ecb62fd55752fe2e213b49eacb0b2"
+    },
+    "protected": false
+  },
+  {
+    "name": "SearchAdvertisement",
+    "commit": {
+      "sha": "16abdbd94f4cadd909333e1dc8b8a87a6a7bfcea",
+      "url": "https://api.github.com/repos/ThreePills/TablicaOgloszen/commits/16abdbd94f4cadd909333e1dc8b8a87a6a7bfcea"
+    },
+    "protected": false
+  },
+  {
+    "name": "ServicesFixed",
+    "commit": {
+      "sha": "8d12cc6db78635a8f01812b7abfdc7c6e2ec3960",
+      "url": "https://api.github.com/repos/ThreePills/TablicaOgloszen/commits/8d12cc6db78635a8f01812b7abfdc7c6e2ec3960"
+    },
+    "protected": false
+  },
+  {
+    "name": "SpotlessConfig",
+    "commit": {
+      "sha": "c0cacd763518574954adc9f56d70dc73d8584a25",
+      "url": "https://api.github.com/repos/ThreePills/TablicaOgloszen/commits/c0cacd763518574954adc9f56d70dc73d8584a25"
+    },
+    "protected": false
+  },
+  {
+    "name": "dependabot/maven/backend/com.h2database-h2-2.1.210",
+    "commit": {
+      "sha": "93e99c11536bb1a227877f424f2ddf0be8f3d87a",
+      "url": "https://api.github.com/repos/ThreePills/TablicaOgloszen/commits/93e99c11536bb1a227877f424f2ddf0be8f3d87a"
+    },
+    "protected": false
+  },
+  {
+    "name": "dependabot/npm_and_yarn/frontend/angular/core-11.0.5",
+    "commit": {
+      "sha": "66ac3b15990b97bec8fba88f658d4bd9ff1a5015",
+      "url": "https://api.github.com/repos/ThreePills/TablicaOgloszen/commits/66ac3b15990b97bec8fba88f658d4bd9ff1a5015"
+    },
+    "protected": false
+  },
+  {
+    "name": "dependabot/npm_and_yarn/frontend/karma-6.3.16",
+    "commit": {
+      "sha": "8185b5aae483361ae0ffe35baefb78b8a5b22269",
+      "url": "https://api.github.com/repos/ThreePills/TablicaOgloszen/commits/8185b5aae483361ae0ffe35baefb78b8a5b22269"
+    },
+    "protected": false
+  },
+  {
+    "name": "master",
+    "commit": {
+      "sha": "acda6e14efc92e71924025888cb5377d281019fd",
+      "url": "https://api.github.com/repos/ThreePills/TablicaOgloszen/commits/acda6e14efc92e71924025888cb5377d281019fd"
+    },
+    "protected": false
+  },
+  {
+    "name": "releaseIssues",
+    "commit": {
+      "sha": "96b3c3db5227b89de7541189407f167bc8372110",
+      "url": "https://api.github.com/repos/ThreePills/TablicaOgloszen/commits/96b3c3db5227b89de7541189407f167bc8372110"
+    },
+    "protected": false
+  }
+]

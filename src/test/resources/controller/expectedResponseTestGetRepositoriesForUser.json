@@ -1,0 +1,126 @@
+[
+  {
+    "repositoryName": "branch1",
+    "ownerLogin": "ThreePills",
+    "branchInformation": [
+      {
+        "sha": "6cde820a1204929e75535fe6e549f2c96664259c",
+        "branch": "AdvertisementContactOptions"
+      },
+      {
+        "sha": "b92dac5556c5e22999b28be8fc51758f5a18ddb1",
+        "branch": "AdvertisementList"
+      },
+      {
+        "sha": "b2cdd74c76d1b5c47eb1644abb6c706b280a941a",
+        "branch": "AdvertisementListTests"
+      },
+      {
+        "sha": "41548a9b24ab915edf03a04dbeb2d627892c9242",
+        "branch": "AdvertisementServices"
+      },
+      {
+        "sha": "e0edd25dd2abca2e97a2bf43af26bf667aa33778",
+        "branch": "EditAdvertisement"
+      },
+      {
+        "sha": "eefde059575ecb62fd55752fe2e213b49eacb0b2",
+        "branch": "LoadingSpinner"
+      },
+      {
+        "sha": "16abdbd94f4cadd909333e1dc8b8a87a6a7bfcea",
+        "branch": "SearchAdvertisement"
+      },
+      {
+        "sha": "8d12cc6db78635a8f01812b7abfdc7c6e2ec3960",
+        "branch": "ServicesFixed"
+      },
+      {
+        "sha": "c0cacd763518574954adc9f56d70dc73d8584a25",
+        "branch": "SpotlessConfig"
+      },
+      {
+        "sha": "93e99c11536bb1a227877f424f2ddf0be8f3d87a",
+        "branch": "dependabot/maven/backend/com.h2database-h2-2.1.210"
+      },
+      {
+        "sha": "66ac3b15990b97bec8fba88f658d4bd9ff1a5015",
+        "branch": "dependabot/npm_and_yarn/frontend/angular/core-11.0.5"
+      },
+      {
+        "sha": "8185b5aae483361ae0ffe35baefb78b8a5b22269",
+        "branch": "dependabot/npm_and_yarn/frontend/karma-6.3.16"
+      },
+      {
+        "sha": "acda6e14efc92e71924025888cb5377d281019fd",
+        "branch": "master"
+      },
+      {
+        "sha": "96b3c3db5227b89de7541189407f167bc8372110",
+        "branch": "releaseIssues"
+      }
+    ]
+  },
+  {
+    "repositoryName": "branch2",
+    "ownerLogin": "ThreePills",
+    "branchInformation": [
+      {
+        "sha": "6cde820a1204929e75535fe6e549f2c96664259c",
+        "branch": "AdvertisementContactOptions"
+      },
+      {
+        "sha": "b92dac5556c5e22999b28be8fc51758f5a18ddb1",
+        "branch": "AdvertisementList"
+      },
+      {
+        "sha": "b2cdd74c76d1b5c47eb1644abb6c706b280a941a",
+        "branch": "AdvertisementListTests"
+      },
+      {
+        "sha": "41548a9b24ab915edf03a04dbeb2d627892c9242",
+        "branch": "AdvertisementServices"
+      },
+      {
+        "sha": "e0edd25dd2abca2e97a2bf43af26bf667aa33778",
+        "branch": "EditAdvertisement"
+      },
+      {
+        "sha": "eefde059575ecb62fd55752fe2e213b49eacb0b2",
+        "branch": "LoadingSpinner"
+      },
+      {
+        "sha": "16abdbd94f4cadd909333e1dc8b8a87a6a7bfcea",
+        "branch": "SearchAdvertisement"
+      },
+      {
+        "sha": "8d12cc6db78635a8f01812b7abfdc7c6e2ec3960",
+        "branch": "ServicesFixed"
+      },
+      {
+        "sha": "c0cacd763518574954adc9f56d70dc73d8584a25",
+        "branch": "SpotlessConfig"
+      },
+      {
+        "sha": "93e99c11536bb1a227877f424f2ddf0be8f3d87a",
+        "branch": "dependabot/maven/backend/com.h2database-h2-2.1.210"
+      },
+      {
+        "sha": "66ac3b15990b97bec8fba88f658d4bd9ff1a5015",
+        "branch": "dependabot/npm_and_yarn/frontend/angular/core-11.0.5"
+      },
+      {
+        "sha": "8185b5aae483361ae0ffe35baefb78b8a5b22269",
+        "branch": "dependabot/npm_and_yarn/frontend/karma-6.3.16"
+      },
+      {
+        "sha": "acda6e14efc92e71924025888cb5377d281019fd",
+        "branch": "master"
+      },
+      {
+        "sha": "96b3c3db5227b89de7541189407f167bc8372110",
+        "branch": "releaseIssues"
+      }
+    ]
+  }
+]

@@ -11,12 +11,12 @@ import lombok.NoArgsConstructor;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-@JsonIgnoreProperties (ignoreUnknown = true)
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class UserRepo {
-        @JsonProperty ("name")
-        private String name;
-        @JsonProperty ("fork")
-        private boolean isFork;
-        @JsonProperty ("owner")
-        private RepositoryOwnerData repositoryOwnerData;
+
+    private String name;
+    @JsonProperty("fork")
+    private boolean isFork;
+    @JsonProperty("owner")
+    private RepositoryOwnerData repositoryOwnerData;
 }

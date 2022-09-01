@@ -6,6 +6,6 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 public class FailResponse {
-        private int status;
-        private String message;
+    private int status;
+    private String message;
 }
